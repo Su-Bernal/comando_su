@@ -1,0 +1,3 @@
+cd    -->nos permite navegar. (..nos permite ir a una carpeta arriba/padre)
+ls    -->nos dice que archivo y carpeta se encuentran en mi locacion actual
+ls -l -->completa
